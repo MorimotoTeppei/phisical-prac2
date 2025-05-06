@@ -1,5 +1,8 @@
 wandb/
-data/
-model/
+data/*
+!data/*.dvc
+model/*
+!model/*.dvc
+
 
 
